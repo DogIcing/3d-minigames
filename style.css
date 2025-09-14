@@ -21,7 +21,6 @@ body {
     border-radius: 100vh;
 }
 
-/* #experience-btn::after { */
 #experience-btn #content {
     position: absolute;
     top: 50%;
